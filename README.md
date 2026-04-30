@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5B7FA6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yaeryung+Lee+%F0%9F%91%8B;Data+Analyst+Portfolio+%7C;Turning+data+into+decisions." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  Data Analytics Portfolio · Targeting fintech & finance
-</p>
-
 ---
 
 ### 🛠 Tech Stack
