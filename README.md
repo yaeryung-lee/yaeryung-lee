@@ -23,9 +23,3 @@
   <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yaeryung-lee">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
